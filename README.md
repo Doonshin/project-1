@@ -48,7 +48,7 @@ Run the included client:
 python client.py
 ```
 
-![client results](./docs/screenshots/client.png)
+![client results](./docs/screenshots/test_client.png)
 
 ---
 
